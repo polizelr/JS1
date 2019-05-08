@@ -1,7 +1,7 @@
 const fabricantes = ["Mercedes", "Audi", "BMW"]
 
 function imprimir(nome, indice){
-
+    console.log(`${indice +1}. ${nome}`)
 }
 
 //ideia do callback: passar uma função para outra função e essa função será invocada, quando determinado evento acontecer

@@ -1,5 +1,5 @@
 //utiliza-se o let/const para atributos e métodos privados e this para atributos e métodos públicos
-//função construtora é o molde dos objetos
+//função construtora é o molde dos objetos (funciona como uma classe) 
 function Carro(velocidadeMaxima = 200, delta = 5){
     //atributo interno
     let velocidadeAtual = 0
@@ -28,6 +28,7 @@ console.log(uno.getVelocidadeAtual())
 const ferrari = new Carro(350, 20)
 ferrari.acelerar()
 console.log(ferrari.getVelocidadeAtual())
+
 
 console.log(typeof Carro) //é função
 console.log(typeof ferrari) //é objeto
