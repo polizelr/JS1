@@ -1,0 +1,10 @@
+-Estrutura de Dados visa organizar e administrar os dados, ou seja, trazer ordem e estrutura
+-Há linguagens que possuem tipagem dinâmica, ou seja, um determinado dado aponta para diferentes tipos ao longo do tempo
+-Outras possuem tipagem estática, ou seja, um determinado dado possuirá apenas um tipo ao longo do tempo
+-Estruturas de dados: lista, fila, pilha, árvore
+-Estruturas de dados primárias: int, reais, letras, booleanos, string
+-Estruturas de dados personalizadas: 
+-Os dados são armazenados em variáveis e constantes
+-Operações: atribuição, aritméticas, lógicas, relacionais
+
+

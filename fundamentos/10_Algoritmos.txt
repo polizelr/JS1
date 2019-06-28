@@ -1,0 +1,6 @@
+-Algoritmo é uma sequência de passos
+-Suporta o conceito de repetição
+-Pode-se repetir um passo uma quantidade determinada de vezes ou até uma determinada condição ocorrer
+-Pode-se escolher um passo em detrimento de outro passo ou em detrimento de não fazer nada
+
+
